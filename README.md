@@ -6,13 +6,13 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/8769ANURAG/EvaMaria?style=flat-square&color=yellow)](https://github.com/8769ANURAG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/8769ANURAG/EvaMaria?style=flat-square&color=orange)](https://github.com/8769ANURAG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/8769ANURAG/EvaMaria?style=flat-square&color=green)](https://github.com/8769ANURAG/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/8769ANURAG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/8769ANURAG/EvaMaria?style=flat-square&color=green)](https://github.com/8769ANURAG/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/8769ANURAG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/8769ANURAG/EvaMaria.svg)](https://stars.medv.io/8769ANURAG/EvaMaria)
+[![Stars](https://img.shields.io/github/stars/AM-ROBOTS/EvaMaria?style=flat-square&color=yellow)](https://github.com/AM-ROBOTS/EvaMaria/stargazers)
+[![Forks](https://img.shields.io/github/forks/AM-ROBOTS/EvaMaria?style=flat-square&color=orange)](https://github.com/AM-ROBOTS/EvaMaria/fork)
+[![Size](https://img.shields.io/github/repo-size/AM-ROBOTS/EvaMaria?style=flat-square&color=green)](https://github.com/AM-ROBOTS/EvaMaria/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AM-ROBOTS/EvaMaria)   
+[![Contributors](https://img.shields.io/github/contributors/AM-ROBOTS/EvaMaria?style=flat-square&color=green)](https://github.com/AM-ROBOTS/EvaMaria/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/AM-ROBOTS/EvaMaria/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/8769ANURAG/EvaMaria.svg)](https://stars.medv.io/AM-ROBOTS/EvaMaria)
 
 
 ## Features
@@ -52,7 +52,7 @@ Read [this](https://telegram.dog/Sources_cods) before you start messing up with 
 ## Deploy
 You can deploy this bot anywhere.
 
-[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/8769ANURAG/EvaMaria)
+[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/AM-ROBOTS/EvaMaria)
 
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/Miajl2amrKo)**</i>
@@ -69,7 +69,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/8769ANURAG/evamaria
+git clone https://github.com/AM-ROBOTS/EvaMaria
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
