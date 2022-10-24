@@ -6,4 +6,4 @@ marshmallow==3.18.0
 umongo==3.1.0
 requests
 bs4
-imdbpy==2022.7.9
+imdbpy==2021.4.18
