@@ -8,9 +8,9 @@ Thats All, i will Provide Movies There...🤓🤪
 
 ⚠️More Help Check Help Button Below
 
-😎 Powered by @MOVIES_ZILAA
+😎 Powered by @Rcmovieslinks
 
-©️ Maintained By @GuruBhai11"""
+©️ Maintained By @I_am_Professor_7"""
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
 
@@ -34,9 +34,9 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
 
 ○Dont Spam Me...🤒
 
-😎 Powered by @MOVIES_ZILAA
+😎 Powered by @Rcmovieslinks
 
-©️ Maintained By @GuruBhai11"""
+©️ Maintained By @I_am_Professor_7"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
