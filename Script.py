@@ -1,9 +1,9 @@
 class script(object):
-    START_TXT = """Yo...Yo...ANURAG {} 💖
+    START_TXT = """Vanakkam Da Mapala{} 💖
 I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
 
 Its Easy To Use Me; Just Add Me To Your Group As Admin, 
-Thats All, i will Provide Movies There...🤓🤪
+Thats All, i will Provide Movies There...😍
 
 
 ⚠️More Help Check Help Button Below
