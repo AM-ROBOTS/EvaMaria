@@ -14,12 +14,10 @@ Thats All, i will Provide Movies There...😍
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
 
-○  Tutorial video is here @sources_cods
-
 ○  it's Note Complicated...🤓
 
 ○  Search using inline mode
-This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space and search any movie you want...
+This methord works on any chat, Just type @Shinchan_movie_bot and then leave a space and search any movie you want...
 
 ○ Available Commands
      
