@@ -44,7 +44,7 @@ This methord works on any chat, Just type @Shinchan_movie_bot and then leave a s
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
-- Source - https://github.com/8769ANURAG/EvaMaria  
+- Source - https://github.com/Kingmaker003/EvaMaria  
 
 <b>DEVS:</b>
 - <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>"""
