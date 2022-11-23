@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/8769ANURAG/EvaMaria",
-    "repository": "https://github.com/8769ANURAG/EvaMaria",
+    "website": "https://github.com/Kingmaker003/EvaMaria",
+    "repository": "https://github.com/Kingmaker003/EvaMaria",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
