@@ -22,7 +22,7 @@ async def save_group(bot, message):
         if message.chat.id in temp.BANNED_CHATS:
             # Inspired from a boat of a banana tree
             buttons = [[
-                InlineKeyboardButton('🌐 Support', url=f'https://t.me/MOVIES_ZILAA')
+                InlineKeyboardButton('🌐 Support', url=f'https://t.me/rcmovierequest')
             ]]
             reply_markup=InlineKeyboardMarkup(buttons)
             k = await message.reply(
@@ -38,7 +38,7 @@ async def save_group(bot, message):
             return
         buttons = [[
             InlineKeyboardButton('ℹ️ 𝙷𝚎𝚕𝚙', url=f"https://t.me/{temp.U_NAME}?start=help"),
-            InlineKeyboardButton('📢 Updates', url='https://t.me/sources_cods')
+            InlineKeyboardButton('📢 Updates', url='https://t.me/rcmovieslinks')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -70,7 +70,7 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-            InlineKeyboardButton('🌐 Support', url=f'https://t.me/MOVIES_ZILAA')
+            InlineKeyboardButton('🌐 Support', url=f'https://t.me/rcmovierequest')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
@@ -109,7 +109,7 @@ async def disable_chat(bot, message):
     await message.reply('Chat Successfully Disabled')
     try:
         buttons = [[
-            InlineKeyboardButton('🌐 Support', url=f'https://t.me/MOVIES_ZILAA')
+            InlineKeyboardButton('🌐 Support', url=f'https://t.me/rcmovierequest')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
